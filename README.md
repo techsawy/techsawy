@@ -1,4 +1,5 @@
-# 🌩️ Sujith Rajendran — Cloud Infrastructure & Operations Architect
+
+
 🌩️ Sujith Rajendran — Cloud Infrastructure & Operations Architect
 👋 Hi there! I’m Sujith Rajendran, a Cloud Infrastructure & Operations Architect with over 20 years of experience in System Administration, Cloud Operations, Site Reliability Engineering (SRE), and IT Infrastructure Management.
 I specialize in designing, securing, and governing multi-cloud environments (Azure & AWS) that balance resilience, compliance, and performance — backed by a deep foundation in networking, automation, and IT service management.
