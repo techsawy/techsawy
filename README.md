@@ -61,6 +61,11 @@ Reusable templates for:
 * Failover validation scripts
 * DR plan documentation and testing
 
+ Responsible AI & Data Governance
+- Experience with **Microsoft Purview** for data cataloging and classification  
+- Understanding of **Responsible AI principles** — fairness, transparency, and accountability  
+- Interest in applying governance frameworks to AI and data pipelines to ensure ethical cloud usage
+
 🧘‍♂️ Professional Philosophy
 “Cloud reliability isn’t a destination — it’s a culture. My focus is to build cloud ecosystems that are secure, self-healing, and governed with integrity.”
 
