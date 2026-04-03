@@ -15,7 +15,7 @@
 - Monitoring & Observability (Azure Monitor, Log Analytics)
 
 ## 💼 Real-World Experience
-- 15+ years in IT Infrastructure & Cloud Operations
+- 20+ years in IT Infrastructure & Cloud Operations
 - Worked in Healthcare domain (high compliance environments)
 - Designed multi-region DR strategies and failover systems
 
