@@ -1,4 +1,4 @@
-# 👋 Sujith Rajendran — Cloud Infrastructure Architect
+# 👋 Sujith — Cloud Infrastructure Architect/Consultant 
 
 🚀 Helping businesses design, optimize, and secure cloud infrastructure (AWS & Azure)
 
