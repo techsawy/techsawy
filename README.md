@@ -1,4 +1,4 @@
-# 👋 Sujith — Cloud Infrastructure Architect/Consultant 
+# 👋 A Cloud Infrastructure Architect & a Consultant 
 
 🚀 Helping businesses design, optimize, and secure cloud infrastructure (AWS & Azure)
 
@@ -24,5 +24,5 @@
 - Creating educational content (YouTube & Udemy)
 - Open to freelance cloud consulting
 
-📩 Connect with me on LinkedIn https://www.linkedin.com/in/sujithrajendran/
+📩 Connect with me on LinkedIn https://www.linkedin.com/in/sujithrajendr
 Website https://www.akashacore.com/
