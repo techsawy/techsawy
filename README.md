@@ -1,4 +1,4 @@
-# 👋 A Cloud Infrastructure Architect & a Consultant 
+# 👋 A Cloud Infrastructure Architect & Consultant 
 
 🚀 Helping businesses design, optimize, and secure cloud infrastructure (AWS & Azure)
 
